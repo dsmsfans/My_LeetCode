@@ -3,7 +3,7 @@
 
  No.   | Question  | Solution | Language  
 -------| ----------| ---------|-----------  
-1      |Two Sum https://leetcode.com/problems/two-sum/                   |  500 
+1      |"Two Sum" https://leetcode.com/problems/two-sum/                   |  500 
 2      |Add Two Numbers                   |  800 
 3      |Longest Substring Without Repeating Characters                    | 1000  
 4      |Median of Two Sorted Arrays                    | 1000
