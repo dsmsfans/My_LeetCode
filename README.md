@@ -10,6 +10,7 @@
 9      |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 11     |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 66     |[Plus One](https://leetcode.com/problems/plus-one/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+94     |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 112    |[Path Sum](https://leetcode.com/problems/path-sum/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 121    |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 122    |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
