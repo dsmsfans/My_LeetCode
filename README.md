@@ -23,7 +23,6 @@
 657    |[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 700    |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 709    |[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
-
 728    |[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 771    |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 804    |[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
