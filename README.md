@@ -1,4 +1,6 @@
 # My_LeetCode
+LeetCode Practice</br>
+Program Language:Python C++
 
 
  No.   | Question  | Solution   
@@ -7,6 +9,7 @@
 2      |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 3      |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)  
 4      |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+6      |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 9      |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 11     |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 21     |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
@@ -19,6 +22,8 @@
 206    |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 371    |[Sum of two Integer](https://leetcode.com/problems/sum-of-two-integers/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 461    |[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+589    |[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+590    |[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 617    |[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 657    |[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 700    |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
