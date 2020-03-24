@@ -26,7 +26,7 @@ Program Language:Python C++
 590    |[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 617    |[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 657    |[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
-700    |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+700    |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[python & C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 709    |[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 728    |[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 771    |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
