@@ -43,3 +43,4 @@ Program Language:Python C++
 1008   |[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1108   |[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1207   |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+1313   |[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
