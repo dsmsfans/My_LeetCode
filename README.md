@@ -18,6 +18,8 @@ Program Language:Python C++
 112    |[Path Sum](https://leetcode.com/problems/path-sum/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 121    |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 122    |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+175    |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MYSQL](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+176    |[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[MYSQL](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 200    |[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 206    |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 371    |[Sum of two Integer](https://leetcode.com/problems/sum-of-two-integers/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
