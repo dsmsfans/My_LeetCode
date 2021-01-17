@@ -46,5 +46,6 @@ Program Language:Python C++
 1108   |[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1207   |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1313   |[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
-
-
+1614   |[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[javascript](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+1662   |[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[javascript](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+1688   |[Count of Matches in Tournamentt](https://leetcode.com/problems/count-of-matches-in-tournament/)|[javascript](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
