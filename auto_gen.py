@@ -14,13 +14,15 @@ def gen_detail():
         pro_slice = id_slice[1].split('.')
         Problem = pro_slice[0]
         if pro_slice[1] == 'py':
-            Lang = "python"
+            Lang = "Python"
         elif pro_slice[1] == 'js':
-            Lang = "javascript"
+            Lang = "JavaScript"
         elif pro_slice[1] == 'cpp':
-            Lang = "c++"
+            Lang = "C++"
         elif pro_slice[1] == 'sql':
-            Lang = "mysql"
+            Lang = "MySQL"
+        elif pro_slice[1] == 'c':
+            Lang = "C"
 
         detail = {
             'id': int(Id),
@@ -36,8 +38,9 @@ def write_to_markdown():
 
     markdown = open("README.md", "w")
 
-    title = "# MyLeetCode\n" + "LeetCode Practice</br>\n" + "Program Language: Python C++ JavaScript"
-    table_header = "\n\n No.   | Question  | Solution   \n" + "-------| ----------| --------- \n"
+    title = "# MyLeetCode\n" + "LeetCode Practice</br>\n" + "Program Language: Python C++ JavaScript\n"
+    total_solved = "Total Sovled: " + str(len(detail_sorted))
+    table_header = "\n\n\n No.   | Question  | Solution   \n" + "-------| ----------| --------- \n"
     data = ''
     for d in detail_sorted:
         number = str(d['id']) + ((7 - len(str(d['id']))) * ' ') + "|"
@@ -45,7 +48,7 @@ def write_to_markdown():
         lang_and_link = '[' + d['language'] + ']' + '(https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)'
         data = data + number + question + lang_and_link + '\n'
     
-    output = title + table_header + data
+    output = title + total_solved + table_header + data
     markdown.write(output)
     markdown.close
 
