@@ -1,7 +1,7 @@
 # MyLeetCode
 LeetCode Practice</br>
 Program Language: Python C++ JavaScript
-Total Sovled: 61
+Total Sovled: 64
 
 
  No.   | Question  | Solution   
@@ -47,6 +47,7 @@ Total Sovled: 61
 804    |[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 832    |[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 852    |[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+874    |[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 897    |[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 905    |[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 938    |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
@@ -63,6 +64,8 @@ Total Sovled: 61
 1313   |[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1342   |[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1374   |[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+1486   |[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+1518   |[Water Bottles](https://leetcode.com/problems/water-bottles/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1534   |[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1614   |[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[JavaScript](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1662   |[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[JavaScript](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
