@@ -1,7 +1,7 @@
 # MyLeetCode
 LeetCode Practice</br>
 Program Language: Python C++ JavaScript
-Total Sovled: 64
+Total Sovled: 65
 
 
  No.   | Question  | Solution   
@@ -31,6 +31,7 @@ Total Sovled: 64
 197    |[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[MySQL](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 200    |[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 206    |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+290    |[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 371    |[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 461    |[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 589    |[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
