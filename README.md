@@ -1,7 +1,7 @@
 # MyLeetCode
 LeetCode Practice</br>
 Program Language: Python C++ JavaScript
-Total Sovled: 69
+Total Sovled: 73
 
 
  No.   | Question  | Solution   
@@ -14,6 +14,7 @@ Total Sovled: 69
 9      |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 11     |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 21     |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+22     |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 33     |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 34     |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 35     |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
@@ -32,6 +33,7 @@ Total Sovled: 69
 200    |[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 206    |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 290    |[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+342    |[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 371    |[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 461    |[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 589    |[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
@@ -57,6 +59,7 @@ Total Sovled: 69
 942    |[DI String Match](https://leetcode.com/problems/di-string-match/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 950    |[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 961    |[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+965    |[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 977    |[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1008   |[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1108   |[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
@@ -65,6 +68,7 @@ Total Sovled: 69
 1221   |[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1281   |[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1295   |[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+1310   |[XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1313   |[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1342   |[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1374   |[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
