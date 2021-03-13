@@ -1,7 +1,7 @@
 # MyLeetCode
 LeetCode Practice</br>
 Program Language: Python C++ JavaScript
-Total Sovled: 65
+Total Sovled: 69
 
 
  No.   | Question  | Solution   
@@ -36,6 +36,8 @@ Total Sovled: 65
 461    |[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 589    |[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 590    |[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+595    |[Big Countries](https://leetcode.com/problems/big-countries/)|[MySQL](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+596    |[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[MySQL](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 617    |[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 620    |[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[MySQL](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 627    |[Swap Salary](https://leetcode.com/problems/swap-salary/)|[MySQL](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
@@ -60,11 +62,13 @@ Total Sovled: 65
 1108   |[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1179   |[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[MySQL](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1207   |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+1221   |[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1281   |[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1295   |[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1313   |[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1342   |[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1374   |[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+1389   |[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1486   |[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1518   |[Water Bottles](https://leetcode.com/problems/water-bottles/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1534   |[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
