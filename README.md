@@ -1,7 +1,7 @@
 # MyLeetCode
 LeetCode Practice</br>
 Program Language: Python C++ JavaScript
-Total Sovled: 73
+Total Sovled: 83
 
 
  No.   | Question  | Solution   
@@ -13,6 +13,7 @@ Total Sovled: 73
 6      |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 9      |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 11     |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+20     |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 21     |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 22     |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 33     |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
@@ -23,6 +24,7 @@ Total Sovled: 73
 112    |[Path Sum](https://leetcode.com/problems/path-sum/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 121    |[Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 122    |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+125    |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 175    |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 176    |[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[MySQL](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 181    |[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[MySQL](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
@@ -32,8 +34,10 @@ Total Sovled: 73
 197    |[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[MySQL](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 200    |[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 206    |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+242    |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 290    |[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 342    |[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+367    |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 371    |[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 461    |[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 589    |[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
@@ -48,14 +52,17 @@ Total Sovled: 73
 700    |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 709    |[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 728    |[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+766    |[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 771    |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 804    |[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 832    |[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 852    |[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+867    |[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 874    |[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 897    |[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 905    |[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 938    |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+941    |[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 942    |[DI String Match](https://leetcode.com/problems/di-string-match/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 950    |[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 961    |[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
@@ -70,12 +77,15 @@ Total Sovled: 73
 1295   |[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1310   |[XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1313   |[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+1337   |[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1342   |[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1374   |[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1389   |[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1486   |[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1518   |[Water Bottles](https://leetcode.com/problems/water-bottles/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1534   |[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+1550   |[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1614   |[Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[JavaScript](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1662   |[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[JavaScript](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 1688   |[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[JavaScript](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+1748   |[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
