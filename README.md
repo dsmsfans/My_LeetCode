@@ -1,7 +1,7 @@
 # MyLeetCode
 LeetCode Practice</br>
 Program Language: Python C++ JavaScript
-Total Sovled: 83
+Total Sovled: 88
 
 
  No.   | Question  | Solution   
@@ -16,15 +16,18 @@ Total Sovled: 83
 20     |[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 21     |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C++](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 22     |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+27     |[Remove Element](https://leetcode.com/problems/remove-element/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 33     |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 34     |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 35     |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 66     |[Plus One](https://leetcode.com/problems/plus-one/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 94     |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+104    |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 112    |[Path Sum](https://leetcode.com/problems/path-sum/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 121    |[Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 122    |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 125    |[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+136    |[Single Number](https://leetcode.com/problems/single-number/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 175    |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 176    |[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[MySQL](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 181    |[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[MySQL](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
@@ -34,7 +37,9 @@ Total Sovled: 83
 197    |[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[MySQL](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 200    |[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 206    |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+217    |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 242    |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
+283    |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 290    |[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 342    |[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
 367    |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Python](https://github.com/dsmsfans/My_LeetCode/tree/master/Solution)
